@@ -11,3 +11,8 @@ echo "Hello, World!"
 NAME="User"
 echo "Welcome, $NAME"
 
+# 3. Reading interactive user input
+echo "What is your favorite food?"
+read FOOD
+
+echo "Awesome, I like $FOOD too!"

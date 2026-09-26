@@ -1,0 +1,13 @@
+#!/bin/bash
+# The line above is the "Shebang". It tells the system to use Bash to run this file.
+
+# This is a comment. Bash will ignore lines starting with a '#'
+
+# 1. Print text to the terminal
+echo "Hello, World!"
+
+
+# 2. Working with variables (No spaces around the '=' sign!)
+NAME="User"
+echo "Welcome, $NAME"
+
